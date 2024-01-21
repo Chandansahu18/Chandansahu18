@@ -1,5 +1,5 @@
 # 💫 Hello there, I'm Chandan K Sahu
-<br>• I'm an **App Developer** 📱<br>• Currently learning {console.log("**JavaScript 🟨** & **React-Native 🔯**")}<br>• You can contact me through:** chandanksahu24@gmail.com  **
+<br>• I'm an **App Developer** 📱<br>• Currently learning {console.log("**JavaScript 🟨** & **React-Native 🔯**")}<br>• You can contact me through: chandanksahu24@gmail.com  
 
 
 ## 🌐 Socials:
