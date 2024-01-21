@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hey There, I'm Chandan K Sahu<br><br>• I'm an App Developer 📱<br>• Currently learning {console.log("JavaScript & React-Native")}
+# 💫 Hey There, I'm Chandan K Sahu
+<br>• I'm an App Developer 📱<br>• Currently learning {console.log("JavaScript & React-Native")}
 
 
 ## 🌐 Socials:
