@@ -1,5 +1,5 @@
 # 💫 Hello there, I'm Chandan Sahu
-<br>• I'm an **MERN developer** 💻<br>• Focusing on building projects<br>• You can contact me through: chandanksahu24@gmail.com  
+<br>• I'm a **MERN developer** 💻<br>• Focusing on building projects<br>• You can contact me through: chandanksahu24@gmail.com  
 
 
 ## 🌐 Socials:
